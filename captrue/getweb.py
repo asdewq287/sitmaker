@@ -14,6 +14,7 @@ if __name__ == '__main__':
         print line,
         line=response.readline()
         print 'sdfsdf'
+        print '123123'
         
     
     pass
