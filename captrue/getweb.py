@@ -13,6 +13,7 @@ if __name__ == '__main__':
     while line!=None and line!='':
         print line,
         line=response.readline()
+        print 'sdfsdf'
         
     
     pass
